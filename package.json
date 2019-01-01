@@ -1,0 +1,14 @@
+{
+  "name": "hammenm.github.io",
+  "version": "1.0.0",
+  "description": "Personal website of Maxence Hammen",
+  "repository": "git@github.com:hammenm/hammenm.github.io.git",
+  "author": "HAMMEN Maxence <maxence.hammen@gmail.com>",
+  "private": true,
+  "devDependencies": {
+    "prettier": "1.15.3"
+  },
+  "scripts": {
+    "prettier": "prettier --write index.html"
+  }
+}

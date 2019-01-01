@@ -1,0 +1,8 @@
+# dependencies
+yarn.lock
+node_modules/
+
+# logs
+yarn-debug.log*
+yarn-error.log*
+
